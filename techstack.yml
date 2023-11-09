@@ -1,0 +1,29 @@
+repo_name: th3mon/cards
+report_id: 7edd8f292efc6dce9f0f09dd7e481f8b
+repo_type: Public
+timestamp: '2023-11-09T12:58:52+00:00'
+requested_by: th3mon
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Elixir
+  description: Dynamic, functional language designed for building scalable and maintainable
+    applications
+  website_url: http://elixir-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1974/drop.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
